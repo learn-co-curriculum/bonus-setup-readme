@@ -42,7 +42,7 @@ If you do not have a clipboard history enabled...well, I mean, that's just crazy
 [GitX (L)](http://gitx.laullon.com/) - A well maintained fork of GitX
 
 ### Window Management
-
+[Spectacle](http://spectacleapp.com/) - Free and open source
 [Breeze](http://www.autumnapps.com/breeze/) - My favorite.
 
 ## Programming Fonts
