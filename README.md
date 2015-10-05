@@ -56,5 +56,4 @@ may want to consider installing:
 - [Dan Benjamin on Anonymous Pro](http://hivelogic.com/articles/anonymous-pro-programming-monospace-font)
 - [Jeff Atwood on Programming Fonts](http://www.codinghorror.com/blog/2007/10/revisiting-programming-fonts.html)
 - [More Fonts!](http://www.openwatcom.org/index.php/Programmers_Fonts)
-- [Even More Fonts!](http://www.proggyfonts.com/)
 - [Managing Fonts in OS X](http://support.apple.com/kb/ht2435)
