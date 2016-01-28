@@ -58,4 +58,4 @@ may want to consider installing:
 - [More Fonts!](http://www.openwatcom.org/index.php/Programmers_Fonts)
 - [Managing Fonts in OS X](http://support.apple.com/kb/ht2435)
 
-<a href='https://learn.co/lessons/bonus-setup-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/bonus-setup-readme' title='Supporting Software'>Supporting Software</a> on Learn.co and start learning to code for free.</p>
