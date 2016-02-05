@@ -33,6 +33,9 @@ If you do not have a clipboard history enabled...well, I mean, that's just crazy
 
 [Dash](http://kapeli.com/dash) - A comprehensive documentation browser. It's awesome, will save you hours in googling. Costs money, but worth it.
 
+[DevDocs](http://devdocs.io/) - A free Dash alternative
+
+
 ### Git Visualizers
 
 [Github OS X](http://mac.github.com/) - Worth having, but honestly, I've never used it.
